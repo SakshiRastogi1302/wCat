@@ -1,0 +1,26 @@
+//This file is used to test the functioning of all the written commands.
+Hello
+How
+Hii
+Hey
+
+How
+What
+
+
+Old
+one return
+
+
+
+
+
+
+
+
+
+
+
+
+four returns
+
